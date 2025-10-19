@@ -32,5 +32,4 @@ yarn-error.log*
 .env
 .env.local
 
-./assets/*.mov
 
