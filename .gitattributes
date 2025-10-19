@@ -1,0 +1,15 @@
+# Handle line endings automatically
+* text=auto
+
+# Video files - use Git LFS (Large File Storage)
+*.mov filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.avi filter=lfs diff=lfs merge=lfs -text
+
+# Image files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+

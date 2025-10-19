@@ -1,0 +1,36 @@
+# Source files
+src/
+tsconfig.json
+
+# Tests
+**/__tests__/
+*.test.ts
+*.test.tsx
+jest.config.js
+coverage/
+
+# Examples
+examples/
+
+# Assets (screenshots/videos - users can see them on GitHub)
+assets/
+
+# Development
+.eslintrc.js
+.gitignore
+.gitattributes
+.git/
+.github/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+
+
