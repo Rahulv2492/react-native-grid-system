@@ -1,6 +1,6 @@
 {
   "name": "react-native-grid-system",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The complete grid system for React Native - CSS Grid-inspired layout with responsive design, masonry support, and zero native dependencies",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
