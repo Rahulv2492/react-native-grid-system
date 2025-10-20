@@ -51,10 +51,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-native-grid-system/react-native-grid-system.git"
+    "url": "https://github.com/Rahulv2492/react-native-grid-system.git"
   },
   "bugs": {
-    "url": "https://github.com/react-native-grid-system/react-native-grid-system/issues"
+    "url": "https://github.com/Rahulv2492/react-native-grid-system/issues"
   },
-  "homepage": "https://github.com/react-native-grid-system/react-native-grid-system#readme"
+  "homepage": "https://github.com/Rahulv2492/react-native-grid-system#readme"
 }
