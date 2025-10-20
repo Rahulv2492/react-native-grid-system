@@ -77,18 +77,14 @@ Pinterest-style dense packing with `autoFlow="row-dense"` for beautiful image ga
 Watch the library in action across different screen sizes and orientations:
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/1N75mlBVPM8XOV5UP9_d2lnKfjzqDTCbp/view?usp=sharing">
-    <img src="https://img.shields.io/badge/▶️_Watch_Demo_Video-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Watch Demo Video" />
+  <a href="https://drive.google.com/file/d/1N75mlBVPM8XOV5UP9_d2lnKfjzqDTCbp/view?usp=sharing" target="_blank">
+    <img src="https://raw.githubusercontent.com/Rahulv2492/react-native-grid-system/main/assets/DashboardExample_(desktop).png" alt="Watch Demo Video" width="600" />
+  </a>
+  <br>
+  <a href="https://drive.google.com/file/d/1N75mlBVPM8XOV5UP9_d2lnKfjzqDTCbp/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/▶️_Click_to_Watch_Full_Demo_Video-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Watch Demo Video" />
   </a>
 </div>
-
-<details>
-<summary>📺 <b>View Video Player (Click to Expand)</b></summary>
-<br>
-<div align="center">
-  <iframe src="https://drive.google.com/file/d/1N75mlBVPM8XOV5UP9_d2lnKfjzqDTCbp/preview" width="640" height="480" allow="autoplay" frameborder="0"></iframe>
-</div>
-</details>
 
 > **Note**: All examples are fully responsive and work seamlessly on iOS, Android, and Web without any platform-specific code!
 
